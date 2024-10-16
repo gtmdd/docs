@@ -1,5 +1,5 @@
 # Gorilla Tag Mod Developer Documentation
-> Version 2024.10
+> Version 2024.11
 Updated 2024.10.15 - 2:26 PM CST (Chicago / Dallas)
 
 ## Welcome

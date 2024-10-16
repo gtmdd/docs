@@ -1,5 +1,5 @@
 # Gorilla Tag Mod Developer Documentation
-> Version 2024.10
+> Version 2024.11
 
 ## Initialize your program
 To create a mod, BepInEx expects a specific type of line in your code that will let it know your code is a mod. To do this, we use BepInPlugin, a flag that when called, asks for a UUID, name, and a version number. Here is a structure of the most basic initialization you can do:
