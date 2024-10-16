@@ -21,7 +21,7 @@ Instable versions are released when major changes are made in the codebase. Some
 For an instable release on December 15, 2024, you would use version ``v2024.12.15``. If there are multiple releases, it is appended by the hour the release was made. For an instable release on December 15, 2024, released at 12, use version ``v2024.12.15-12``
 
 ## Contact
-- Erik [@gnu-nano](https://github.com/gnu-nano) - main project lead
+- Erik [@StickmasterErik](https://github.com/stickmastererik) - main project lead
 
 ## Join the Organization
 Anyone can join for whatever reason. E-mail [iwanttojoin@monkemods.xyz](mailto:iwanttojoin@monkemods.xyz) with your GitHub username and you will be invited to join.
